@@ -1,0 +1,8 @@
+li {
+    display: inline-block; 
+}
+
+.num1 {
+    padding: 20 px; 
+    border: 10px solid green;  
+}
